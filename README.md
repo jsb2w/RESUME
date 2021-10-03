@@ -6,3 +6,7 @@
 #### email : jsb2w@naver.com
 #### unuversity : hallym university
   
+>취미
+>> 스키  
+>> 낚시  
+>> 여행  
