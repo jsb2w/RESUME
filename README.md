@@ -21,6 +21,12 @@
 * 오픈소스
 * 딥러닝
 * 블록체인
+
+
+![linux icon](/다운로드.jpg)
+
+<img src=다운로드.jpg width=200 heigh100>
+
 ------------------------
 ## 오픈소스 커뮤니티 정리파일일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
