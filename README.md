@@ -22,6 +22,9 @@
 * 딥러닝
 * 블록체인
 ------------------------
+## 오픈소스 커뮤니티 정리파일일
+[오픈소스 커뮤니티 파일](openSourceCommunity.md)
+------------------
 * jupyter notebook
 * tensorflow
 ----
@@ -33,7 +36,21 @@
 [구글][google]  
 [네이버][naver]  
 
+### 마크언어 문법 강조
+기본문구
+*기본강조 문구*   
+**강조 문구**  
+__강조 문구__  
+++강조 문구++  
 
+
+|학년|언어|개발도구|
+|:---:|---|---|
+|1|[자바](http://www.oracle.com)|[이클립스][eclipse]|
+|2|c|비주얼스튜디오|
+|3|C++|비주얼스튜디오|
+
+[eclipse]: http://www.eclipse.org
 [Google]: http://www.google.com
 [naver]: http://naver.com
 [hallym]: http://www.hallym.ac.kr
